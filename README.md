@@ -1,4 +1,4 @@
-# Desafío - Flujos, ciclos y Métodos (II)
+# Desafío - Flujos, ciclos y Métodos (III)
 
 En este desafío pondremos en práctica nuestros conocimientos sobre flujos, ciclos y métodos en Ruby.
 
