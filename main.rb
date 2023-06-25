@@ -1,5 +1,5 @@
-# Desafío Flujos, ciclos y métodos (II)
-puts "Desafío Flujos, ciclos y métodos (II)",""
+# Desafío Flujos, ciclos y métodos (III)
+puts "Desafío Flujos, ciclos y métodos (III)",""
 
 # Requerimiento 1 - Calculo Salario
 puts "Requerimiento 1 - Calculo Salario"
